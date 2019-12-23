@@ -1,6 +1,5 @@
 def my_hash
   me = {"name" => "Pam", "job" => "Captioning Agent at CaptionCall"}
-
 end
 
 
